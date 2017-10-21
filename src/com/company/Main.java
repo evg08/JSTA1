@@ -20,7 +20,7 @@ public class Main {
 
 */
         //======================================
-        System.out.println("Enter size of massif :");
+       /* System.out.println("Enter size of massif :");
         int count =in.nextInt();
         int []Mas = new int[count];
         for (int i=0;i<count;i++)
@@ -28,7 +28,7 @@ public class Main {
             System.out.println("Enter element of massif :");
             Mas[i]=in.nextInt();
         }
-
+*/
         //-----------Task#1
         /*System.out.println("Positive numbers:");
         for (int i=0;i<count;i++)
@@ -156,7 +156,7 @@ public class Main {
             System.out.print(sum);
 */
         //-----------Additional Task# 1--- Bubble sort
-        System.out.print('\n'+" Before buble sort:");
+     /*   System.out.print('\n'+" Before buble sort:");
         for (int i=0;i<count;i++)
         {
             System.out.print(Mas[i]);
@@ -179,9 +179,9 @@ public class Main {
             System.out.print(Mas[i]);
             System.out.print(" ");
         }
-
+*/
         //-----------Additional Task# 2_1--- Fibonachi consequence
-       /*int[] Fibon=new int[11];
+       int[] Fibon=new int[11];
          Fibon[0]=1;
         Fibon[1]=1;
         System.out.print('\n'+" Fibonachi consequence:");
@@ -194,7 +194,7 @@ public class Main {
         {
             System.out.print(Fibon[i]);
             System.out.print(" ");
-        }*/
+        }
         //-----------Additional Task# 2_1--- interval(-1;1)
       /*  int lowBorder = -1;
         int highBorder = 2;
