@@ -105,7 +105,7 @@ public class Main {
             System.out.print(" ");
         }*/
         //-----------Task#8---[-5;5] random(0,1)
-        int[][] Mas3 = new int[7][4];
+       /* int[][] Mas3 = new int[7][4];
         int []line =new int[7];
         int lowBorder2 = -5;
         int highBorder2 = 10;
@@ -135,9 +135,9 @@ public class Main {
         }
         System.out.print('\n'+" Line index:");
         System.out.print(LineIndex);
-        
+        */
       //-----------Task9
-       /* System.out.println("Enter natural number n:");
+        System.out.println("Enter natural number n:");
         int nv =in.nextInt();
         int i=10;
         int sum=0;
@@ -154,7 +154,7 @@ public class Main {
             sum= sum+(nv/i)+((nv%i) /(i /10));
 
             System.out.print(sum);
-            */
+
         //-----------Additional Task# 1--- Bubble sort
       /*  System.out.print('\n'+" Before buble sort:");
         for (int i=0;i<count;i++)
