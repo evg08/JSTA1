@@ -181,7 +181,7 @@ public class Main {
         }
 */
         //-----------Additional Task# 2_1--- Fibonachi consequence
-       int[] Fibon=new int[11];
+      /* int[] Fibon=new int[11];
          Fibon[0]=1;
         Fibon[1]=1;
         System.out.print('\n'+" Fibonachi consequence:");
@@ -194,9 +194,9 @@ public class Main {
         {
             System.out.print(Fibon[i]);
             System.out.print(" ");
-        }
+        }*/
         //-----------Additional Task# 2_1--- interval(-1;1)
-      /*  int lowBorder = -1;
+        int lowBorder = -1;
         int highBorder = 2;
         int [] Massive=new int[11];
         int [] Counter=new int[3];
@@ -255,7 +255,7 @@ public class Main {
 
 
 
-*/
+
 
 
     //-----------Additional Task# 3---
