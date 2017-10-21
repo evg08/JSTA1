@@ -196,7 +196,7 @@ public class Main {
             System.out.print(" ");
         }*/
         //-----------Additional Task# 2_1--- interval(-1;1)
-        int lowBorder = -1;
+       /* int lowBorder = -1;
         int highBorder = 2;
         int [] Massive=new int[11];
         int [] Counter=new int[3];
@@ -256,10 +256,10 @@ public class Main {
 
 
 
-
+*/
 
     //-----------Additional Task# 3---
-     /*   System.out.println("Enter natural number n:");
+        System.out.println("Enter natural number n:");
         int n =in.nextInt();
         for (int i=1 ;i<=n;i++)
         {
@@ -268,7 +268,7 @@ public class Main {
                 System.out.print(i);
                 System.out.print(" ");
             }
-        }*/
+        }
     }
 }
 
