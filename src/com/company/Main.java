@@ -51,20 +51,20 @@ public class Main {
         }
 */
         //-----------Task#3
-        int sum=0;
+      /*  int sum=0;
        for (int i:Mas){
          sum=sum+i;
        }
         System.out.println("Amount of elements of massif sum ="+sum);
-
+*/
         //-----------Task#4
-        /*int max=0;
+        int max=0;
         for (int i:Mas){
             if (i>max) { max= i;}
 
         }
         System.out.println("Maximum element of massif ="+max);
-        */
+
         //-----------Task#5
         /*int l=1;
         System.out.println("Odd numbers:");
