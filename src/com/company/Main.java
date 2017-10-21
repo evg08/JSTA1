@@ -84,7 +84,7 @@ public class Main {
             System.out.println("Odd number");
         }*/
         //-----------Task#7 //[1;10]
-        int[] Mas = new int[8];
+        /*int[] Mas = new int[8];
         int[] Mas2 = new int[8];
         int lowBorder = 1;
         int highBorder = 10;
@@ -103,9 +103,9 @@ public class Main {
             }
             System.out.print(Mas2[i]);
             System.out.print(" ");
-        }
+        }*/
         //-----------Task#8---[-5;5] random(0,1)
-      /*  int[][] Mas3 = new int[7][4];
+        int[][] Mas3 = new int[7][4];
         int []line =new int[7];
         int lowBorder2 = -5;
         int highBorder2 = 10;
@@ -135,7 +135,7 @@ public class Main {
         }
         System.out.print('\n'+" Line index:");
         System.out.print(LineIndex);
-        */
+        
       //-----------Task9
        /* System.out.println("Enter natural number n:");
         int nv =in.nextInt();
