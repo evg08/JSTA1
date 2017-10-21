@@ -66,22 +66,23 @@ public class Main {
         System.out.println("Maximum element of massif ="+max);
 */
         //-----------Task#5
-        int l=1;
+     /*   int l=1;
         System.out.println("Odd numbers:");
         while(l <10){
             System.out.println(l);
             l+=2;
 
         }
+        */
         //-----------Task#6
-       /* System.out.println("Enter first number n:");
+       System.out.println("Enter first number n:");
         int n =in.nextInt();
         if ((n%2)==0) {
             System.out.println("Even number");
         }
         else{
             System.out.println("Odd number");
-        }*/
+        }
         //-----------Task#7 //[1;10]
         /*int[] Mas = new int[8];
         int[] Mas2 = new int[8];
