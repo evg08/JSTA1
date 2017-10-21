@@ -39,7 +39,7 @@ public class Main {
         }
         */
         //-----------Task#2
-        System.out.println("Multiply of all odd elements to 2:");
+       /* System.out.println("Multiply of all odd elements to 2:");
         System.out.println(Mas[0]);
         for (int i=1;i<count;i=i+2)
         {
@@ -49,14 +49,14 @@ public class Main {
                 System.out.println(Mas[i+1]);
             }
         }
-
+*/
         //-----------Task#3
-       /* int sum=0;
+        int sum=0;
        for (int i:Mas){
          sum=sum+i;
        }
         System.out.println("Amount of elements of massif sum ="+sum);
-        */
+
         //-----------Task#4
         /*int max=0;
         for (int i:Mas){
