@@ -30,15 +30,16 @@ public class Main {
         }
 
         //-----------Task#1
-        System.out.println("Positive numbers:");
+        /*System.out.println("Positive numbers:");
         for (int i=0;i<count;i++)
         {
            if (Mas[i]>0 ){
                System.out.println(Mas[i]);
            }
         }
+        */
         //-----------Task#2
-       /* System.out.println("Multiply of all odd elements to 2:");
+        System.out.println("Multiply of all odd elements to 2:");
         System.out.println(Mas[0]);
         for (int i=1;i<count;i=i+2)
         {
@@ -47,7 +48,7 @@ public class Main {
             if( i!=count-1) {
                 System.out.println(Mas[i+1]);
             }
-        }*/
+        }
 
         //-----------Task#3
        /* int sum=0;
