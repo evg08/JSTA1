@@ -11,16 +11,16 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // task with variables
-        int x,y;
+      /*  int x,y;
 	    System.out.println("Enter first number x:");
         x=in.nextInt();
         System.out.println("Enter second number y:");
         y=in.nextInt();
         System.out.println("Sum x+y:"+(x+y));
 
-
+*/
         //======================================
-      /*  System.out.println("Enter size of massif :");
+        System.out.println("Enter size of massif :");
         int count =in.nextInt();
         int []Mas = new int[count];
         for (int i=0;i<count;i++)
@@ -36,7 +36,7 @@ public class Main {
            if (Mas[i]>0 ){
                System.out.println(Mas[i]);
            }
-        }*/
+        }
         //-----------Task#2
        /* System.out.println("Multiply of all odd elements to 2:");
         System.out.println(Mas[0]);
