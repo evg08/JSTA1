@@ -75,16 +75,16 @@ public class Main {
         }
         */
         //-----------Task#6
-       System.out.println("Enter first number n:");
+      /* System.out.println("Enter first number n:");
         int n =in.nextInt();
         if ((n%2)==0) {
             System.out.println("Even number");
         }
         else{
             System.out.println("Odd number");
-        }
+        }*/
         //-----------Task#7 //[1;10]
-        /*int[] Mas = new int[8];
+        int[] Mas = new int[8];
         int[] Mas2 = new int[8];
         int lowBorder = 1;
         int highBorder = 10;
@@ -103,7 +103,7 @@ public class Main {
             }
             System.out.print(Mas2[i]);
             System.out.print(" ");
-        }*/
+        }
         //-----------Task#8---[-5;5] random(0,1)
       /*  int[][] Mas3 = new int[7][4];
         int []line =new int[7];
