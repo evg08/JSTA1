@@ -20,7 +20,7 @@ public class Main {
 
 */
         //======================================
-        System.out.println("Enter size of massif :");
+       /* System.out.println("Enter size of massif :");
         int count =in.nextInt();
         int []Mas = new int[count];
         for (int i=0;i<count;i++)
@@ -28,7 +28,7 @@ public class Main {
             System.out.println("Enter element of massif :");
             Mas[i]=in.nextInt();
         }
-
+*/
         //-----------Task#1
         /*System.out.println("Positive numbers:");
         for (int i=0;i<count;i++)
@@ -58,21 +58,21 @@ public class Main {
         System.out.println("Amount of elements of massif sum ="+sum);
 */
         //-----------Task#4
-        int max=0;
+       /* int max=0;
         for (int i:Mas){
             if (i>max) { max= i;}
 
         }
         System.out.println("Maximum element of massif ="+max);
-
+*/
         //-----------Task#5
-        /*int l=1;
+        int l=1;
         System.out.println("Odd numbers:");
         while(l <10){
             System.out.println(l);
             l+=2;
 
-        }*/
+        }
         //-----------Task#6
        /* System.out.println("Enter first number n:");
         int n =in.nextInt();
